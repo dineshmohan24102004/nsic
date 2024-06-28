@@ -1,0 +1,47 @@
+h2,h1{
+    font-family: sans-serif;
+    text-align: center;
+}
+h3{
+    font-style: italic;
+    text-align: right;
+}
+h4{
+    font-weight: 400;
+    text-align: right;
+    color: red;
+    
+}
+.b1{
+    background-image: url(saveetha2.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.image{
+    height: 200px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50px;
+}
+.b2{
+    background: linear-gradient(to right,#7F7FD5 , #91EAE4);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.profile{
+font-weight: 4000;
+text-align: left;
+font-family: sans-serif;
+}
+p{
+    font-style: oblique;
+    font-weight: 1000;
+    font-size: larger;
+}
+.skill{
+    font-weight: 1000;
+}
